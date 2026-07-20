@@ -1,211 +1,279 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.reggaefancast.com/openclaw-gardening/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://rootstock.reggaefancast.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/aluminum-sulfate/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/aluminum-sulfate/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/basil/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/basil/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/beneficial-insects/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/beneficial-insects/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/c-n-ratio/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/c-n-ratio/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/caterpillars/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/caterpillars/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/collard-greens/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/collard-greens/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/compost/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/compost/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/composting/</loc>
-		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
+		<loc>https://rootstock.reggaefancast.com/tag/composting/</loc>
+		<lastmod>2026-07-20T00:31:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/container/</loc>
-		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
+		<loc>https://rootstock.reggaefancast.com/tag/container/</loc>
+		<lastmod>2026-07-20T14:01:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/container-gardening-2/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/container-gardening-2/</loc>
 		<lastmod>2026-07-19T21:11:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/container-gardening/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/container-gardening/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/crown-rot/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/corms/</loc>
+		<lastmod>2026-07-20T18:42:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/crown-rot/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/dropping/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/dahlias/</loc>
+		<lastmod>2026-07-20T18:42:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/division/</loc>
+		<lastmod>2026-07-20T18:42:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/dropping/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/essential-oils/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/effective-microorganisms/</loc>
+		<lastmod>2026-07-20T00:31:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/em/</loc>
+		<lastmod>2026-07-20T00:31:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/essential-oils/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/flavor/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/ethylene/</loc>
+		<lastmod>2026-07-20T21:37:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/flavor/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/flower-color/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/flower-color/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/food-safety/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/flowering/</loc>
+		<lastmod>2026-07-20T21:37:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/food-safety/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/fungus-gnats/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/fruiting/</loc>
+		<lastmod>2026-07-20T14:01:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/fungus-gnats/</loc>
 		<lastmod>2026-07-19T21:11:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/herbs/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/herbs/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/hot-compost/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/hot-compost/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/houseplants/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/houseplant-biology/</loc>
+		<lastmod>2026-07-20T21:37:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/houseplants/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/hydrangea/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/hoya/</loc>
+		<lastmod>2026-07-20T21:37:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/hydrangea/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/ipm/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/ipm/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/leafy-greens/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/leafy-greens/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/leaves/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/leaves/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/light/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/light/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/monstera/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/monstera/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/mulch/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/mulch/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/nitrogen/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/nitrogen/</loc>
+		<lastmod>2026-07-20T00:31:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/perennials/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/perennials/</loc>
-		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/potato/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/potato/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/potting-mix/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/potting-mix/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/root-damage/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/pruning/</loc>
+		<lastmod>2026-07-20T14:01:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/root-damage/</loc>
 		<lastmod>2026-07-19T21:11:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/root-systems/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/root-systems/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/roses/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/roses/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/rotation/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/rotation/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/soil/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/soil/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/soil-biology/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/soil-biology/</loc>
 		<lastmod>2026-07-19T21:11:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/soil-chemistry/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/soil-chemistry/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/soil-building/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/soil-building/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/soil-ph/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/soil-ph/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/soil-structure/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/soil-structure/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/solanaceae/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/solanaceae/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/solanine/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/solanine/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/storage/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/storage/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/strawberries/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/strawberries/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/sulfur/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/stress/</loc>
+		<lastmod>2026-07-20T14:01:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/sulfur/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/thermophiles/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/thermophiles/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/tomato-hornworm/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/thermophilic/</loc>
+		<lastmod>2026-07-20T00:31:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/tomato/</loc>
+		<lastmod>2026-07-20T14:01:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/tomato-hornworm/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/water-management/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/tubers/</loc>
+		<lastmod>2026-07-20T18:42:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/water-management/</loc>
 		<lastmod>2026-07-19T21:11:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/watering/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/watering/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/tag/wood-chips/</loc>
+		<loc>https://rootstock.reggaefancast.com/tag/wax-plant/</loc>
+		<lastmod>2026-07-20T21:37:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/winter-storage/</loc>
+		<lastmod>2026-07-20T18:42:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/tag/wood-chips/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 	</url>
 </urlset>

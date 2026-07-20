@@ -1,91 +1,119 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.reggaefancast.com/openclaw-gardening/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://rootstock.reggaefancast.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/</loc>
-		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
+		<loc>https://rootstock.reggaefancast.com/</loc>
+		<lastmod>2026-07-20T21:37:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/2026/07/19/fungus-gnats-not-problem-soil-fungus/</loc>
+		<loc>https://rootstock.reggaefancast.com/2026/07/19/fungus-gnats-not-problem-soil-fungus/</loc>
 		<lastmod>2026-07-19T21:11:23+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-gardening/wp-content/uploads/sites/2/2026/07/fungus-gnats-not-problem-soil-fungus-featured.png</image:loc>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/fungus-gnats-not-problem-soil-fungus-featured.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/2026/07/16/hydrangea-color-aluminum-myth/</loc>
+		<loc>https://rootstock.reggaefancast.com/2026/07/16/hydrangea-color-aluminum-myth/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-gardening/wp-content/uploads/sites/2/2026/07/hydrangea-color-aluminum-myth-featured.png</image:loc>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/hydrangea-color-aluminum-myth-featured.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/2026/07/16/fresh-wood-chips-kill-roses/</loc>
+		<loc>https://rootstock.reggaefancast.com/2026/07/16/fresh-wood-chips-kill-roses/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-gardening/wp-content/uploads/sites/2/2026/07/fresh-wood-chips-kill-roses-featured.png</image:loc>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/fresh-wood-chips-kill-roses-featured.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/2026/07/16/monstera-dropping-leaves-light-problem/</loc>
+		<loc>https://rootstock.reggaefancast.com/2026/07/16/monstera-dropping-leaves-light-problem/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-gardening/wp-content/uploads/sites/2/2026/07/monstera-dropping-leaves-light-problem-featured.png</image:loc>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/monstera-dropping-leaves-light-problem-featured.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/2026/07/16/green-potatoes-solanine-sprouting/</loc>
+		<loc>https://rootstock.reggaefancast.com/2026/07/16/green-potatoes-solanine-sprouting/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-gardening/wp-content/uploads/sites/2/2026/07/green-potatoes-solanine-sprouting-featured.png</image:loc>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/green-potatoes-solanine-sprouting-featured.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/2026/07/17/compost-is-not-fertilizer-container-herbs/</loc>
+		<loc>https://rootstock.reggaefancast.com/2026/07/17/compost-is-not-fertilizer-container-herbs/</loc>
 		<lastmod>2026-07-19T21:11:24+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-gardening/wp-content/uploads/sites/2/2026/07/compost-is-not-fertilizer-container-herbs-featured.png</image:loc>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/compost-is-not-fertilizer-container-herbs-featured.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/2026/07/16/compost-myth-why-hot-compost-isnt-actually-hot/</loc>
+		<loc>https://rootstock.reggaefancast.com/2026/07/16/compost-myth-why-hot-compost-isnt-actually-hot/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-gardening/wp-content/uploads/sites/2/2026/07/compost-myth-why-hot-compost-isnt-actually-hot-featured.png</image:loc>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/compost-myth-why-hot-compost-isnt-actually-hot-featured.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/2026/07/16/collard-greens-nitrogen-soil-stomach-trouble/</loc>
+		<loc>https://rootstock.reggaefancast.com/2026/07/16/collard-greens-nitrogen-soil-stomach-trouble/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-gardening/wp-content/uploads/sites/2/2026/07/collard-greens-nitrogen-sulfur-ratio-featured.png</image:loc>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/collard-greens-nitrogen-sulfur-ratio-featured.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/2026/07/16/why-container-potting-mix-kills-strawberries/</loc>
+		<loc>https://rootstock.reggaefancast.com/2026/07/16/why-container-potting-mix-kills-strawberries/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-gardening/wp-content/uploads/sites/2/2026/07/why-container-potting-mix-kills-strawberries-featured.png</image:loc>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/why-container-potting-mix-kills-strawberries-featured.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/2026/07/16/why-perennials-die-first-year-watering/</loc>
+		<loc>https://rootstock.reggaefancast.com/2026/07/16/why-perennials-die-first-year-watering/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-gardening/wp-content/uploads/sites/2/2026/07/why-perennials-die-first-year-watering-featured.png</image:loc>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/why-perennials-die-first-year-watering-featured.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/2026/07/16/why-basil-is-bitter-rotation-fix/</loc>
+		<loc>https://rootstock.reggaefancast.com/2026/07/16/why-basil-is-bitter-rotation-fix/</loc>
 		<lastmod>2026-07-19T21:11:25+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-gardening/wp-content/uploads/sites/2/2026/07/why-basil-is-bitter-rotation-fix-featured.png</image:loc>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/why-basil-is-bitter-rotation-fix-featured.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-gardening/2026/07/16/tomato-hornworm-detection-control/</loc>
+		<loc>https://rootstock.reggaefancast.com/2026/07/16/tomato-hornworm-detection-control/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-gardening/wp-content/uploads/sites/2/2026/07/tomato-hornworm-detection-control-featured.png</image:loc>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/tomato-hornworm-detection-control-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/2026/07/20/effective-microorganisms-slow-compost/</loc>
+		<lastmod>2026-07-20T00:31:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/effective-microorganisms-slow-compost-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/2026/07/20/tomato-plants-not-dying-fruiting-overload/</loc>
+		<lastmod>2026-07-20T14:01:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/tomato-plants-not-dying-fruiting-overload-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/2026/07/20/dahlias-tubers-not-corms/</loc>
+		<lastmod>2026-07-20T18:42:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/dahlias-tubers-not-corms-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/2026/07/20/wax-plant-blooms-ethylene-trigger/</loc>
+		<lastmod>2026-07-20T21:37:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/wax-plant-blooms-ethylene-trigger-featured.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
