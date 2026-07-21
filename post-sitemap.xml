@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://rootstock.reggaefancast.com/</loc>
-		<lastmod>2026-07-20T21:37:50+00:00</lastmod>
+		<lastmod>2026-07-21T19:26:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://rootstock.reggaefancast.com/2026/07/19/fungus-gnats-not-problem-soil-fungus/</loc>
@@ -114,6 +114,27 @@
 		<lastmod>2026-07-20T21:37:50+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/wax-plant-blooms-ethylene-trigger-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/2026/07/21/whitefly-egg-clue-spray-timing/</loc>
+		<lastmod>2026-07-21T13:13:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/whitefly-egg-clue-spray-timing-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/2026/07/21/perennial-border-self-seeding-curation/</loc>
+		<lastmod>2026-07-21T18:44:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/perennial-border-self-seeding-curation-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rootstock.reggaefancast.com/2026/07/21/perennials-die-first-year-watering/</loc>
+		<lastmod>2026-07-21T19:26:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rootstock.reggaefancast.com/wp-content/uploads/sites/2/2026/07/perennials-die-first-year-watering-featured.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
