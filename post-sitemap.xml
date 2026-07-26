@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://gardening.info-verse.org/</loc>
-		<lastmod>2026-07-23T18:40:14+00:00</lastmod>
+		<lastmod>2026-07-26T00:47:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gardening.info-verse.org/2026/07/19/fungus-gnats-not-problem-soil-fungus/</loc>
@@ -156,6 +156,48 @@
 		<lastmod>2026-07-23T18:40:14+00:00</lastmod>
 		<image:image>
 			<image:loc>https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/compost-is-not-smelly-it-is-starving-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://gardening.info-verse.org/2026/07/24/snake-plant-propagation-rhizome-division/</loc>
+		<lastmod>2026-07-24T00:43:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/snake-plant-propagation-rhizome-division-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://gardening.info-verse.org/2026/07/24/rosemary-root-rotting-potting-mix/</loc>
+		<lastmod>2026-07-24T18:45:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/rosemary-root-rotting-potting-mix-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://gardening.info-verse.org/2026/07/25/aphids-are-not-problem-ants-farming-them/</loc>
+		<lastmod>2026-07-25T00:45:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/aphids-are-not-problem-ants-farming-them-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://gardening.info-verse.org/2026/07/25/daylily-flower-life-math-bloom/</loc>
+		<lastmod>2026-07-25T13:41:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/daylily-flower-life-math-bloom-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://gardening.info-verse.org/2026/07/25/zz-plant-turning-yellow-soil-problem/</loc>
+		<lastmod>2026-07-25T18:41:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/zz-plant-turning-yellow-soil-problem-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://gardening.info-verse.org/2026/07/26/30-percent-shade-rule-perennials/</loc>
+		<lastmod>2026-07-26T00:47:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/30-percent-shade-rule-perennials-featured.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
