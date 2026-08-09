@@ -2,14 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://gardening.info-verse.org/</loc>
-		<lastmod>2026-08-09T18:13:30+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://gardening.info-verse.org/2026/07/19/fungus-gnats-not-problem-soil-fungus/</loc>
-		<lastmod>2026-07-19T21:11:23+00:00</lastmod>
-		<image:image>
-			<image:loc>https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/fungus-gnats-not-problem-soil-fungus-featured.png</image:loc>
-		</image:image>
+		<lastmod>2026-08-09T20:59:53+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gardening.info-verse.org/2026/07/16/hydrangea-color-aluminum-myth/</loc>
@@ -215,13 +208,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://gardening.info-verse.org/2026/07/28/variegated-basil-white-patches-die-no-chlorophyll/</loc>
-		<lastmod>2026-07-28T13:13:46+00:00</lastmod>
-		<image:image>
-			<image:loc>https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/variegated-basil-white-patches-die-no-chlorophyll-featured.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://gardening.info-verse.org/2026/07/28/dahlia-staking-fails-wrong-wire/</loc>
 		<lastmod>2026-07-28T18:12:24+00:00</lastmod>
 		<image:image>
@@ -261,13 +247,6 @@
 		<lastmod>2026-07-30T16:25:27+00:00</lastmod>
 		<image:image>
 			<image:loc>https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/powdery-mildew-is-not-fungus-looks-like-algae-featured.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://gardening.info-verse.org/2026/07/30/blossom-end-rot-not-calcium-deficiency/</loc>
-		<lastmod>2026-07-30T19:50:07+00:00</lastmod>
-		<image:image>
-			<image:loc>https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/blossom-end-rot-not-calcium-deficiency-featured.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -415,6 +394,27 @@
 		<lastmod>2026-08-09T18:13:30+00:00</lastmod>
 		<image:image>
 			<image:loc>https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/08/alocasia-polly-dormant-leaf-drop-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://gardening.info-verse.org/2026/07/30/blossom-end-rot-not-calcium-deficiency/</loc>
+		<lastmod>2026-08-09T20:50:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/blossom-end-rot-not-calcium-deficiency-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://gardening.info-verse.org/2026/07/19/fungus-gnats-not-problem-soil-fungus/</loc>
+		<lastmod>2026-08-09T20:55:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/fungus-gnats-not-problem-soil-fungus-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://gardening.info-verse.org/2026/07/28/variegated-basil-white-patches-die-no-chlorophyll/</loc>
+		<lastmod>2026-08-09T20:59:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/variegated-basil-white-patches-die-no-chlorophyll-featured.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
