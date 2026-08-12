@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://gardening.info-verse.org/</loc>
-		<lastmod>2026-08-09T20:59:53+00:00</lastmod>
+		<lastmod>2026-08-12T13:12:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gardening.info-verse.org/2026/07/16/hydrangea-color-aluminum-myth/</loc>
@@ -415,6 +415,13 @@
 		<lastmod>2026-08-09T20:59:53+00:00</lastmod>
 		<image:image>
 			<image:loc>https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/variegated-basil-white-patches-die-no-chlorophyll-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://gardening.info-verse.org/2026/08/12/ficus-elastica-aerial-roots-strategy/</loc>
+		<lastmod>2026-08-12T13:12:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/08/ficus-elastica-aerial-roots-strategy-featured.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

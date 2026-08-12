@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://gardening.info-verse.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://gardening.info-verse.org/tag/aerial-roots/</loc>
+		<lastmod>2026-08-12T13:12:09+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://gardening.info-verse.org/tag/algae/</loc>
 		<lastmod>2026-07-30T16:25:27+00:00</lastmod>
 	</url>
@@ -225,6 +229,10 @@
 		<lastmod>2026-08-04T00:46:06+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://gardening.info-verse.org/tag/ficus-elastica/</loc>
+		<lastmod>2026-08-12T13:12:09+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://gardening.info-verse.org/tag/fiddle-leaf-fig/</loc>
 		<lastmod>2026-07-23T00:53:09+00:00</lastmod>
 	</url>
@@ -338,7 +346,7 @@
 	</url>
 	<url>
 		<loc>https://gardening.info-verse.org/tag/houseplant-care-2/</loc>
-		<lastmod>2026-07-25T18:41:47+00:00</lastmod>
+		<lastmod>2026-08-12T13:12:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gardening.info-verse.org/tag/houseplant-biology/</loc>
@@ -358,7 +366,7 @@
 	</url>
 	<url>
 		<loc>https://gardening.info-verse.org/tag/humidity/</loc>
-		<lastmod>2026-07-21T21:20:34+00:00</lastmod>
+		<lastmod>2026-08-12T13:12:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gardening.info-verse.org/tag/humidity-tolerance/</loc>
@@ -554,7 +562,7 @@
 	</url>
 	<url>
 		<loc>https://gardening.info-verse.org/tag/propagation/</loc>
-		<lastmod>2026-08-08T13:27:38+00:00</lastmod>
+		<lastmod>2026-08-12T13:12:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://gardening.info-verse.org/tag/pruning/</loc>
