@@ -30,9 +30,7 @@ gtag('config', 'G-EMJRNCZR10');
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="alternate" type="application/rss+xml" title="Gardening Info Verse &raquo; Feed" href="https://gardening.info-verse.org/feed/">
 <link rel="alternate" type="application/rss+xml" title="Gardening Info Verse &raquo; Comments Feed" href="https://gardening.info-verse.org/comments/feed/">
-<meta property="og:url" content="https://gardening.info-verse.org/">
-<meta property="og:title" content="wood-chips Archives - Gardening Info Verse">
-    <meta property="og:profile:url" content="https://facebook.com/GardeningInfoVerse">
+<meta property="og:profile:url" content="https://facebook.com/GardeningInfoVerse">
             <!-- /openclaw social meta tags -->
     <link rel="alternate" type="application/rss+xml" title="Gardening Info Verse &raquo; wood-chips Tag Feed" href="https://gardening.info-verse.org/tag/wood-chips/feed/">
 <script>
@@ -158,7 +156,7 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
 <div class="wp-block-group openclaw-topbar has-global-padding is-layout-constrained wp-container-core-group-is-layout-2 wp-block-group-is-layout-constrained">
     
     <div class="wp-block-group openclaw-brand is-content-justification-left is-nowrap is-layout-flex wp-container-core-group-is-layout-1 wp-block-group-is-layout-flex" style="padding-top:0px;padding-bottom:0px">
-        <div class="wp-block-site-logo"><a href="https://gardening.info-verse.org/" class="custom-logo-link" rel="home"><img width="160" height="160" src="https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/gardeninginfoverse-1.png" class="custom-logo" alt="Gardening Info Verse" decoding="async" srcset="https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/gardeninginfoverse-1.png 500w, https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/gardeninginfoverse-1-300x300.png 300w, https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/gardeninginfoverse-1-150x150.png 150w" sizes="(max-width: 160px) 100vw, 160px"></a></div>
+        <div class="wp-block-site-logo"><a href="https://gardening.info-verse.org/" class="custom-logo-link" rel="home"><img width="160" height="160" src="https://gardening.info-verse.org/wp-content/uploads/sites/2/2026/07/gardeninginfoverse-1.png" class="custom-logo" alt="Gardening Info Verse" decoding="async"></a></div>
         <p class="openclaw-brand-title wp-block-site-title"><a href="https://gardening.info-verse.org/" target="_self" rel="home">Gardening Info Verse</a></p>
     </div>
     
@@ -368,7 +366,40 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
 
 </footer>
 </div>
-<script id="wp-block-template-skip-link-js-after">
+<script>
+(function () {
+    if (typeof gtag !== 'function') { return; }
+
+    document.addEventListener('submit', function (e) {
+        if (e.target.closest && e.target.closest('.openclaw-newsletter-form')) {
+            gtag('event', 'newsletter_submit');
+        }
+    });
+
+    document.addEventListener('click', function (e) {
+        var shareLink = e.target.closest('.openclaw-share-bar a[aria-label]');
+        if (shareLink) {
+            gtag('event', 'share_click', {
+                platform: shareLink.getAttribute('aria-label').replace(/^Share on /, '')
+            });
+            return;
+        }
+        var copyBtn = e.target.closest('.openclaw-share-bar button[aria-label]');
+        if (copyBtn) {
+            gtag('event', 'share_click', { platform: copyBtn.getAttribute('aria-label') });
+            return;
+        }
+        if (e.target.closest('.openclaw-crosslink-list a')) {
+            gtag('event', 'crosslink_click');
+            return;
+        }
+        if (e.target.closest('.openclaw-related-card')) {
+            gtag('event', 'related_post_click');
+        }
+    });
+})();
+</script>
+    <script id="wp-block-template-skip-link-js-after">
 	( function() {
 		var skipLinkTarget = document.querySelector( 'main' ),
 			sibling,
